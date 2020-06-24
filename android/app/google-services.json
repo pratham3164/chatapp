@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1090496565972",
+    "firebase_url": "https://chatapp-c7d65.firebaseio.com",
+    "project_id": "chatapp-c7d65",
+    "storage_bucket": "chatapp-c7d65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090496565972:android:c9eab3668d2290bb70a141",
+        "android_client_info": {
+          "package_name": "erpratham1.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090496565972-jmmdphj0le6jm1sjdphgg7qtk250i5mm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "erpratham1.com",
+            "certificate_hash": "ecedf2a40cb9cd52017ae9ed3fb582b2e83b400c"
+          }
+        },
+        {
+          "client_id": "1090496565972-g10r36mijuvg1bvem836g8c15sct2fj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxhzdqWRQlgFqFhGOGO-jwkglJTGvdy9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090496565972-g10r36mijuvg1bvem836g8c15sct2fj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
